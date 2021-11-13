@@ -1,0 +1,39 @@
+body {
+  width:1263px;
+  height: 720px;
+  bottom:720px;
+  align-items: center;
+  display: flex;
+}
+
+h2{
+  font-weight: bolder;
+  font-size: 50px;
+  color:blue;
+}
+
+h5{
+  font-size: 35px;
+  color:white;
+  font-weight: bold;
+}
+
+div{
+  width:396px;
+  height:353px;
+  right:1117px;
+  top:130px;
+  bottom:483px;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  border-radius: 30px;
+}
+
+form{
+  font-size: 28px;
+  font-weight:lighter;
+  font-family: monospace;
+  align-items: center;
+  display: table-column-group;
+}
